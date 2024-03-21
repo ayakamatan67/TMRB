@@ -1,6 +1,8 @@
 Made by: Lorenzik
 
-# TikTok Mass Report Bot
+# TikTok Mass Report Both
+![IMG_2278](https://github.com/Lorenzik/TMRB/assets/164419281/6d8b3212-1a91-41de-a69c-4fa9c0cc1602)
+
 
 ## Installation
 ```
